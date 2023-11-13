@@ -1,0 +1,16 @@
+body {
+    font-family: arial, helvetica;
+    background-color: tomato;
+}
+
+#info {
+    width: 160px;
+    border: thin solid silver;
+    padding: .5em;
+    position: fixed;
+    background-color: lightseagreen;
+}
+
+#info h1 {
+    margin: 0;
+}
